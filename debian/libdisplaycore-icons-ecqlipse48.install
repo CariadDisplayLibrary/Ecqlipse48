@@ -1,2 +1,3 @@
-Ecqlipse48.cpp libraries/DisplayCore/Ecqlipse48
-Ecqlipse48.h libraries/DisplayCore/Ecqlipse48
+library.json libraries/DisplayCore/Ecqlipse48
+library.properties libraries/DisplayCore/Ecqlipse48
+src libraries/DisplayCore/Ecqlipse48
