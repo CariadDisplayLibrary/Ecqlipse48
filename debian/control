@@ -1,16 +1,17 @@
-Source: libdisplaycore-icons-ecqlipse48
+Source: libcariad-icons-ecqlipse48
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-icons-ecqlipse48
+Package: libcariad-icons-ecqlipse48
+Replaces: libdisplaycore-icons-ecqlipse48
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Icons
-Depends: libdisplaycore-core, libdisplaycore-toolkit-monoicon
+Depends: libcariad-core, libcariad-toolkit-monoicon
 Provides: Ecqlipse48.h
 Description: Ecqlipse48
  Ecqlipse icon set in 48x48 pixel format for the MonoIcon widget system
